@@ -1,0 +1,21 @@
+Here are all Todos listet, that need to be implemented in the UI...
+Alls API todos can be found in the API project...
+
+Finance Tracker Area:
+    In the finance tracker Area there will be two parts
+        LEFT:
+            on the left side the user is able to create new "bills" (add button)
+            after adding a bill, the bill will be created to the list and the (add button) 
+            will be placed underneath the bills.
+
+        RIGHT:
+            on the right side, the user can add "already payed bills". (add button)
+            after each "payed bill" the total costs will be updated
+
+        
+        BOTTOM center:
+            at the bottom center in between the boxes, there will be a "costs" calculator,
+            that calculates the costs
+
+
+            STREAM STARTS SOON
